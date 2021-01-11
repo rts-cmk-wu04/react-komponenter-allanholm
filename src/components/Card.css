@@ -1,0 +1,49 @@
+.card1, .card2, .card3, .card4 {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  /* grid-template-rows: auto auto auto ; */
+  grid-template-areas: ". icon"
+                      "heading heading"
+                      "text text";
+  height: 272px;
+  width: 270px;
+  border-radius: 10px;
+}
+
+.card__img {
+  grid-area: icon;
+  padding: 2em;
+}
+
+.card__heading {
+  color: white;
+  text-transform: uppercase;
+  font-size: 18px;
+  grid-area: heading;
+  text-align: left;
+  margin: 0 2em;
+}
+
+.card__text {
+  color: white;
+  font-size: 16px;
+  grid-area: text;
+  text-align: left;
+  margin: 0 2em 1em;
+}
+
+.card1 {
+  background-color: #005AEE;
+}
+
+.card2 {
+  background-color: #FFA767;
+}
+
+.card3 {
+  background-color: #0AACDC;
+}
+
+.card4 {
+  background-color: #597AEF;
+}

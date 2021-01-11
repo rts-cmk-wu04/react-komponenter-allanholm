@@ -1,0 +1,28 @@
+{
+  "cards": [
+    {
+      "icon": "https://via.placeholder.com/73x73",
+      "heading": "On-time delivery",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit",
+      "className": "card1" 
+    },
+    {
+      "icon": "https://via.placeholder.com/73x73",
+      "heading": "Parcels",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit",
+      "className": "card2" 
+    },
+    {
+      "icon": "https://via.placeholder.com/73x73",
+      "heading": "Quality check",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit",
+      "className": "card3" 
+    },
+    {
+      "icon": "https://via.placeholder.com/73x73",
+      "heading": "Costumer service",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit",
+      "className": "card4" 
+    }
+  ]
+}
