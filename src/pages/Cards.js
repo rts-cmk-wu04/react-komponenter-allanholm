@@ -1,11 +1,12 @@
 import { useEffect, useState } from "react";
 import Card from "../components/Card";
+import "./Cards.css";
 
 function Cards() {
   var [cards, setCards] = useState([]);
 
   useEffect(function() {
-    fetch("../cards.json")
+    fetch("../database.json")
     .then(function(response) {
       return response.json();
     })
@@ -17,9 +18,11 @@ function Cards() {
 
   return (
   <>
-    {cards.map(function (card) {
-      return <Card key={ card.heading } card={ card } />;
-    })}  
+    <section className="cards">
+      {cards.map(function (card) {
+        return <Card key={ card.heading } card={ card } />;
+      })}  
+    </section>
   </>
   )
 }
