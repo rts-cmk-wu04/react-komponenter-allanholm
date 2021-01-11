@@ -24,5 +24,28 @@
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit",
       "className": "card4" 
     }
+  ],
+  "collections": [
+    {
+      "bigImg": "../collections/background/background1.png",
+      "heading1": "Collection #10",
+      "heading2": "Off-the-grid experiences",
+      "authorImg": "../collections/author/author1.png",
+      "author": "Melanie S." 
+    },
+    {
+      "bigImg": "../collections/background/background2.png",
+      "heading1": "Collection #1",
+      "heading2": "Shapes, triangles & fashion",
+      "authorImg": "../collections/author/author2.png",
+      "author": "Saraha F." 
+    },
+    {
+      "bigImg": "../collections/background/background3.png",
+      "heading1": "Collection #123",
+      "heading2": "In-depth architecture",
+      "authorImg": "../collections/author/author3.png",
+      "author": "Benhour" 
+    }
   ]
 }

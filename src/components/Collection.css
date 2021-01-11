@@ -1,0 +1,32 @@
+.collection {
+  position: relative;
+  width: 372px;
+  height: 373px;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.collection__heading1 {
+  font-size: 18px;
+  text-transform: uppercase;
+  position: absolute;
+  color: white;
+  margin: 1em;
+}
+
+.collection__heading2 {
+  font-size: 18px;
+}
+
+.collection__author {
+  font-size: 14px;
+  color: #7B8591;
+}
+
+.collection__authorImage {
+  border-radius: 50%;
+  display: inline-block;
+  position: absolute;
+  top: 210px;
+  left: 1em
+}
