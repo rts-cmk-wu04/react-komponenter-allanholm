@@ -1,25 +1,25 @@
 {
   "cards": [
     {
-      "icon": "../icons/On_time_delivery_icon.png",
+      "icon": "../images/icons/On_time_delivery_icon.png",
       "heading": "On-time delivery",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit",
-      "className": "card1" 
+      "className": "card1"
     },
     {
-      "icon": "../icons/Parcels_Icon.png",
+      "icon": "../images/icons/Parcels_Icon.png",
       "heading": "Parcels",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit",
       "className": "card2" 
     },
     {
-      "icon": "../icons/Quality_Icon.png",
+      "icon": "../images/icons/Quality_Icon.png",
       "heading": "Quality check",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit",
       "className": "card3" 
     },
     {
-      "icon": "../icons/Costumer_Service_Icon.png",
+      "icon": "../images/icons/Costumer_Service_Icon.png",
       "heading": "Costumer service",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit",
       "className": "card4" 
@@ -27,25 +27,33 @@
   ],
   "collections": [
     {
-      "bigImg": "../collections/background/background1.png",
+      "bigImg": "../images/collections/background/background1.png",
       "heading1": "Collection #10",
       "heading2": "Off-the-grid experiences",
-      "authorImg": "../collections/author/author1.png",
+      "authorImg": "../images/collections/author/author1.png",
       "author": "Melanie S." 
     },
     {
-      "bigImg": "../collections/background/background2.png",
+      "bigImg": "../images/collections/background/background2.png",
       "heading1": "Collection #1",
       "heading2": "Shapes, triangles & fashion",
-      "authorImg": "../collections/author/author2.png",
+      "authorImg": "../images/collections/author/author2.png",
       "author": "Saraha F." 
     },
     {
-      "bigImg": "../collections/background/background3.png",
+      "bigImg": "../images/collections/background/background3.png",
       "heading1": "Collection #123",
       "heading2": "In-depth architecture",
-      "authorImg": "../collections/author/author3.png",
+      "authorImg": "../images/collections/author/author3.png",
       "author": "Benhour" 
+    }
+  ],
+  "smallArticles": [
+    {
+      "image": "../images/articles/image1.png",
+      "title": "Travel",
+      "heading": "Surfing in Maldives",
+      "text": "It’s windy. The cool breeze of the ocean. It gives, a sense of beauty, in motion. All is flowing, rushing and tide-And I sit in wonder, dreaming beside."
     }
   ]
 }

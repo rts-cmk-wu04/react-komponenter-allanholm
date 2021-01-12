@@ -6,7 +6,7 @@ function Cards() {
   var [cards, setCards] = useState([]);
 
   useEffect(function() {
-    fetch("../database.json")
+    fetch("./database.json")
     .then(function(response) {
       return response.json();
     })
@@ -17,13 +17,11 @@ function Cards() {
   }, []);
 
   return (
-  <>
     <section className="cards">
       {cards.map(function (card) {
         return <Card key={ card.heading } card={ card } />;
       })}  
     </section>
-  </>
   )
 }
 

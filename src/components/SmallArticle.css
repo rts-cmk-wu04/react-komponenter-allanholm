@@ -1,0 +1,24 @@
+.smallArticle {
+  background-color: white;
+  width: 372px;
+  height: 471px;
+  border-radius: 10px;
+  text-align: left;
+}
+
+.smallArticle__title {
+  text-transform: uppercase;
+  font-size: 11px;
+  color: #33439B;
+  margin: 1em 2em ;
+}
+
+.smallArticle__heading {
+  font-size: 28px;
+  margin: 0 0.8em;
+}
+
+.smallArticle__text {
+  color: #7B8591;
+  margin: 1em 1.4em;
+}
