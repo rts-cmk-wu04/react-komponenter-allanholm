@@ -6,7 +6,7 @@ function Collections() {
   var [collections, setCollections] = useState([]);
 
   useEffect(function() {
-    fetch("../database.json")
+    fetch("./database.json")
     .then(function(response) {
       return response.json();
     })
@@ -17,13 +17,11 @@ function Collections() {
   }, []);
 
   return (
-    <>
       <section className="collections">
         {collections.map(function (collection) {
           return <Collection key={ collection.heading1 } collection={ collection } />;
         })}
       </section>
-    </>
   )
 }
 
