@@ -55,5 +55,26 @@
       "heading": "Surfing in Maldives",
       "text": "It’s windy. The cool breeze of the ocean. It gives, a sense of beauty, in motion. All is flowing, rushing and tide-And I sit in wonder, dreaming beside."
     }
+  ],
+  "bigArticles": [
+    {
+      "title": "Leisure",
+      "heading": "Outdoor Experience",
+      "text": "It’s windy. The cool breeze of the ocean. It gives, a sense of beauty, in motion. All is flowing, rushing and tide-And I sit in wonder, dreaming beside.",
+      "images":[
+        {
+          "src": "../images/articles/image2.png"
+        },
+        {
+          "src": "../images/articles/image3.png"
+        },
+        {
+          "src": "../images/articles/image4.png"
+        },
+        {
+          "src": "../images/articles/image5.png"
+        }
+      ]
+    }
   ]
 }

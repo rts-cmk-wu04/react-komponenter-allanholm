@@ -1,0 +1,46 @@
+.bigArticle {
+  width: 771px;
+  height: 471px;
+  display: flex;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.bigArticle__bigimg {
+  height: 375px;
+  margin: auto 2em;
+  border-radius: 10px;
+}
+
+.bigArticle__title {
+  width: 99px;
+  height: 33px;
+  text-align: center;
+  text-transform: uppercase;
+  background-color: #005AEE;
+  border-radius: 17px;
+  color: white;
+  font-size: 11px;
+  margin-top: 4.5em;
+  margin-left: 65%;
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+.bigArticle__heading {
+  font-size: 45px;
+  text-align: left;
+  margin: 0;
+}
+
+.bigArticle__text {
+  color: #7B8591;
+  text-align: left;
+  width: 314px;
+}
+
+.bigArticle__smallimg {
+  padding: 0 2em 0 0;
+  border-radius: 10px;
+}
