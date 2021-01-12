@@ -76,5 +76,19 @@
         }
       ]
     }
+  ],
+  "bigArticlesMid": [
+    {
+      "heading": "Must see places for summer",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam",
+      "images":[
+        {
+          "src": "../images/articles/image6.png"
+        },
+        {
+          "src": "../images/icons/nyt_Icon.png"
+        }
+      ]
+    }
   ]
 }
