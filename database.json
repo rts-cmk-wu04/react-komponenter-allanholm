@@ -1,7 +1,7 @@
 {
   "cards": [
     {
-      "icon": "../images/icons/On_time_delivery_icon.png",
+      "icon": "./images/icons/On_time_delivery_icon.png",
       "heading": "On-time delivery",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit",
       "className": "card1"
@@ -27,17 +27,17 @@
   ],
   "collections": [
     {
-      "bigImg": "../images/collections/background/background1.png",
+      "bigImg": "./images/collections/background/background1.png",
       "heading1": "Collection #10",
       "heading2": "Off-the-grid experiences",
-      "authorImg": "../images/collections/author/author1.png",
+      "authorImg": "./images/collections/author/author1.png",
       "author": "Melanie S." 
     },
     {
-      "bigImg": "../images/collections/background/background2.png",
+      "bigImg": "./images/collections/background/background2.png",
       "heading1": "Collection #1",
       "heading2": "Shapes, triangles & fashion",
-      "authorImg": "../images/collections/author/author2.png",
+      "authorImg": "./images/collections/author/author2.png",
       "author": "Saraha F." 
     },
     {
