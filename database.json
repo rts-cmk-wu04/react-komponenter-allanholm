@@ -142,5 +142,47 @@
         }
       ]
     }
+  ],
+  "cardsWPic": [
+    {
+      "title": "Architecture",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas",
+      "colorcode": "#FFD430",
+      "images": [
+        {
+          "src":"./images/cards/image1.png"
+        }
+      ]
+    },
+    {
+      "title": "Travel & leisure",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas",
+      "colorcode": "#FFFFFF",
+      "images": [
+        {
+          "src":"./images/cards/image2.png"
+        }
+      ]
+    },
+    {
+      "title": "Greenery",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas",
+      "colorcode": "#FFFFFF",
+      "images": [
+        {
+          "src":"./images/cards/image3.png"
+        }
+      ]
+    },
+    {
+      "title": "Beaches",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas",
+      "colorcode": "#FFFFFF",
+      "images": [
+        {
+          "src":"./images/cards/image4.png"
+        }
+      ]
+    }
   ]
 }
