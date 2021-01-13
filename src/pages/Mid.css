@@ -5,3 +5,9 @@
 .bigArticles {
   left: 0;
 }
+
+.cardWithPic {
+  max-width:771px;
+  display: grid;
+  grid-template-columns: repeat( auto-fit, minmax(372px, 1fr) );
+}

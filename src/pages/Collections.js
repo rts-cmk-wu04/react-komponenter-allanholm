@@ -11,7 +11,6 @@ function Collections() {
       return response.json();
     })
     .then(function(data) {
-      console.log(data);
       setCollections(data.collections);
     })
   }, []);

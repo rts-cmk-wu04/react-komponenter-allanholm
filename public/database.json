@@ -1,25 +1,25 @@
 {
   "cards": [
     {
-      "icon": "../images/icons/On_time_delivery_icon.png",
+      "icon": "./images/icons/On_time_delivery_icon.png",
       "heading": "On-time delivery",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit",
       "className": "card1"
     },
     {
-      "icon": "../images/icons/Parcels_Icon.png",
+      "icon": "./images/icons/Parcels_Icon.png",
       "heading": "Parcels",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit",
       "className": "card2" 
     },
     {
-      "icon": "../images/icons/Quality_Icon.png",
+      "icon": "./images/icons/Quality_Icon.png",
       "heading": "Quality check",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit",
       "className": "card3" 
     },
     {
-      "icon": "../images/icons/Costumer_Service_Icon.png",
+      "icon": "./images/icons/Costumer_Service_Icon.png",
       "heading": "Costumer service",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit",
       "className": "card4" 
@@ -27,30 +27,30 @@
   ],
   "collections": [
     {
-      "bigImg": "../images/collections/background/background1.png",
+      "bigImg": "./images/collections/background/background1.png",
       "heading1": "Collection #10",
       "heading2": "Off-the-grid experiences",
-      "authorImg": "../images/collections/author/author1.png",
+      "authorImg": "./images/collections/author/author1.png",
       "author": "Melanie S." 
     },
     {
-      "bigImg": "../images/collections/background/background2.png",
+      "bigImg": "./images/collections/background/background2.png",
       "heading1": "Collection #1",
       "heading2": "Shapes, triangles & fashion",
-      "authorImg": "../images/collections/author/author2.png",
+      "authorImg": "./images/collections/author/author2.png",
       "author": "Saraha F." 
     },
     {
-      "bigImg": "../images/collections/background/background3.png",
+      "bigImg": "./images/collections/background/background3.png",
       "heading1": "Collection #123",
       "heading2": "In-depth architecture",
-      "authorImg": "../images/collections/author/author3.png",
+      "authorImg": "./images/collections/author/author3.png",
       "author": "Benhour" 
     }
   ],
   "smallArticles": [
     {
-      "image": "../images/articles/image1.png",
+      "image": "./images/articles/image1.png",
       "title": "Travel",
       "heading": "Surfing in Maldives",
       "text": "It’s windy. The cool breeze of the ocean. It gives, a sense of beauty, in motion. All is flowing, rushing and tide-And I sit in wonder, dreaming beside."
@@ -63,16 +63,16 @@
       "text": "It’s windy. The cool breeze of the ocean. It gives, a sense of beauty, in motion. All is flowing, rushing and tide-And I sit in wonder, dreaming beside.",
       "images":[
         {
-          "src": "../images/articles/image2.png"
+          "src": "./images/articles/image2.png"
         },
         {
-          "src": "../images/articles/image3.png"
+          "src": "./images/articles/image3.png"
         },
         {
-          "src": "../images/articles/image4.png"
+          "src": "./images/articles/image4.png"
         },
         {
-          "src": "../images/articles/image5.png"
+          "src": "./images/articles/image5.png"
         }
       ]
     }
@@ -83,10 +83,10 @@
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam",
       "images":[
         {
-          "src": "../images/articles/image6.png"
+          "src": "./images/articles/image6.png"
         },
         {
-          "src": "../images/icons/nyt_Icon.png"
+          "src": "./images/icons/nyt_Icon.png"
         }
       ]
     }
@@ -98,7 +98,7 @@
       "colorcode": "#40BE65",
       "images": [
         {
-          "src": "../images/news/image1.png"
+          "src": "./images/news/image1.png"
         }
       ]
     },
@@ -108,7 +108,7 @@
       "colorcode": "#0072CA",
       "images": [
         {
-          "src": "../images/news/image2.png"
+          "src": "./images/news/image2.png"
         }
       ]
     },
@@ -118,7 +118,7 @@
       "colorcode": "#D9A34A",
       "images": [
         {
-          "src": "../images/news/image3.png"
+          "src": "./images/news/image3.png"
         }
       ]
     },
@@ -128,7 +128,7 @@
       "colorcode": "#FF4967",
       "images": [
         {
-          "src": "../images/news/image4.png"
+          "src": "./images/news/image4.png"
         }
       ]
     },
@@ -138,7 +138,49 @@
       "colorcode": "#0072CA",
       "images": [
         {
-          "src": "../images/news/image5.png"
+          "src": "./images/news/image5.png"
+        }
+      ]
+    }
+  ],
+  "cardsWPic": [
+    {
+      "title": "Architecture",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas",
+      "colorcode": "#FFD430",
+      "images": [
+        {
+          "src":"./images/cards/image1.png"
+        }
+      ]
+    },
+    {
+      "title": "Travel & leisure",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas",
+      "colorcode": "#FFFFFF",
+      "images": [
+        {
+          "src":"./images/cards/image2.png"
+        }
+      ]
+    },
+    {
+      "title": "Greenery",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas",
+      "colorcode": "#FFFFFF",
+      "images": [
+        {
+          "src":"./images/cards/image3.png"
+        }
+      ]
+    },
+    {
+      "title": "Beaches",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas",
+      "colorcode": "#FFFFFF",
+      "images": [
+        {
+          "src":"./images/cards/image4.png"
         }
       ]
     }
