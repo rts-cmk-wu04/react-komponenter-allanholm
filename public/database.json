@@ -90,5 +90,57 @@
         }
       ]
     }
+  ],
+  "newsStories": [
+    {
+      "category": "Nature",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam",
+      "colorcode": "#40BE65",
+      "images": [
+        {
+          "src": "../images/news/image1.png"
+        }
+      ]
+    },
+    {
+      "category": "Animal kingdom",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam",
+      "colorcode": "#0072CA",
+      "images": [
+        {
+          "src": "../images/news/image2.png"
+        }
+      ]
+    },
+    {
+      "category": "Technology",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam",
+      "colorcode": "#D9A34A",
+      "images": [
+        {
+          "src": "../images/news/image3.png"
+        }
+      ]
+    },
+    {
+      "category": "Explore",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam",
+      "colorcode": "#FF4967",
+      "images": [
+        {
+          "src": "../images/news/image4.png"
+        }
+      ]
+    },
+    {
+      "category": "Africa zoo",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam",
+      "colorcode": "#0072CA",
+      "images": [
+        {
+          "src": "../images/news/image5.png"
+        }
+      ]
+    }
   ]
 }
