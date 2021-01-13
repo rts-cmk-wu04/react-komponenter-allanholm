@@ -1,5 +1,7 @@
 import { useEffect, useState } from "react";
+import "./Mid.css";
 import BigArticleMid from "../components/BigArticleMid";
+import LatestNews from "../components/LatestNews";
 
 function Mid() {
   var [articles, setArticles] = useState([]);
@@ -21,6 +23,7 @@ function Mid() {
           return <BigArticleMid key={ article.heading } article={ article } />;
         })}
       </section>
+      <LatestNews />
     </section>
   )
 }

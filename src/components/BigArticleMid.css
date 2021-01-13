@@ -8,22 +8,25 @@
   position: absolute;
   max-width: 100%;
   border-radius: 10px;
+  left: 0;
 }
 
 .bigArticleMid__icon {
   display: inline-block;
   position: absolute;
-  margin: 2em
+  left: 50px;
+  margin-top: 50px;
 }
 
 .bigArticleMid__iconText {
   display: inline-block;
   position: absolute;
-  margin: 3.2em 5.5em;
   text-transform: uppercase;
   color: white;
   font-weight: 700;
   font-size: 11px;
+  left: 90px;
+  margin-top: 50px;
 }
 
 .bigArticleMid__heading {
@@ -33,18 +36,19 @@
   color: white;
   width: 354px;
   text-align: left;
-  margin: 5em 0.6em;
   line-height: 1;
-
+  left: 50px;
+  margin-top: 260px;
 }
 
 .bigArticleMid__text {
   display: inline-block;
-  position: relative;
+  position: absolute;
   color: white;
   font-size: 16px;
   font-weight: 100;
   width: 397px;
   text-align: left;
-  margin: 22em 2em;
+  left: 50px;
+  margin-top: 370px;
 }
