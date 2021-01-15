@@ -187,6 +187,7 @@
   ],
   "bottomLeftArticles": [
     {
+      "articleID": "1",
       "title": "The New York Times",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar.",
       "buttonColor": "#358ED7",
@@ -197,6 +198,7 @@
       ]
     },
     {
+      "articleID": "2",
       "title": "The New York Times",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar.",
       "buttonColor": "#000000",
@@ -206,6 +208,48 @@
         },
         {
           "src": "./images/articles/image7.png"
+        }
+      ]
+    }
+  ],
+  "midBarArticles": [
+    {
+      "title": "Food & lifestyle",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam",
+      "colorcode": "#E44385",
+      "images": [
+        {
+          "src": "./images/articles/image8.png"
+        }
+      ]
+    },
+    {
+      "title": "Fashion",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam",
+      "colorcode": "#0AACDC",
+      "images": [
+        {
+          "src": "./images/articles/image9.png"
+        }
+      ]
+    }
+  ],
+  "categoryIcon": [
+    {
+      "title": "Design",
+      "colorcode": "#53BBB3",
+      "images": [
+        {
+          "src": "./images/icons/Design_Icon.png"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "colorcode": "#358ED7",
+      "images": [
+        {
+          "src": "./images/icons/Education_Icon.png"
         }
       ]
     }
